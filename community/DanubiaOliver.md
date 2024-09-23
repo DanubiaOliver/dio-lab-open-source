@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
    <style> #mydiv{ 
     animation: mymove 5s infinite;
     color:#39ff14;
@@ -8,7 +8,7 @@
     @keyframes mymove {70% {text-shadow: 10px 15px 05px green;}
     }
 
- </style>
+ </style> -->
 
   <div id="mydiv">
 
@@ -93,7 +93,7 @@ Banco de Dados
 <summary style="font-family:Times New Roman;font-size:20px;color:green"> <b>📌Sobre mim (Pt-br)👽</b> 
 </summary>
 
-<div>
+<!-- <div>
    <style> #mydiv{ 
     animation: mymove 5s infinite;
     color:#39ff14;
@@ -105,7 +105,7 @@ Banco de Dados
 
  </style>
 
-  <div id="mydiv">
+  <div id="mydiv"> -->
   <br>
 
 <h1> E aí? Meus amigos. Prazer sou a Danubia! 👽 </h1> 

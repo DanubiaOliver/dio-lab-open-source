@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
    <style> #mydiv{ 
     animation: mymove 5s infinite;
     color:#39ff14;
@@ -8,7 +8,7 @@
     @keyframes mymove {70% {text-shadow: 10px 15px 05px green;}
     }
 
- </style>
+ </style> -->
 
   <div id="mydiv">
 
